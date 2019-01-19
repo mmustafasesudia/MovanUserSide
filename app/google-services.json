@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8105856932",
+    "firebase_url": "https://moven-c10ef.firebaseio.com",
+    "project_id": "moven-c10ef",
+    "storage_bucket": "moven-c10ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8105856932:android:d9f4adf4048e8592",
+        "android_client_info": {
+          "package_name": "com.android.moven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8105856932-l9kva43rins5udgslkm13mp0g8pa05g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhesCpoCk3rZcIrhHx1Z-SsuLFwrPSFS0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

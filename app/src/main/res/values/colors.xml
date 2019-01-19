@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#385f70</color>
+    <color name="colorPrimaryDark">#104154</color>
+    <color name="colorAccent">#004966</color>
+
+    <color name="colorwhite">#ffffff</color>
+    <color name="colortransparent">#53504f</color>
+    <color name="colorYellow">#ffea00</color>
+    <color name="colorbackground">#385f70</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorGreen">#1ddc00</color>
+    <color name="colorBrown">#5c5b46</color>
+    <color name="colorGrey">#e2e2e2</color>
+    <color name="colorRed">#ff1f1f</color>
+    <color name="colorAvaen">#cf2424</color>
+    <color name="colorgrey">#cfcece</color>
+    <color name="colorlightgrey">#e6e6e6</color>
+    <color name="buttonpressed">#4285f4</color>
+    <color name="buttonnormal">#fff</color>
+    <color name="textnormal">#949393</color>
+    <color name="buttonselected">#1772e7</color>
+    <color name="buttontextColorOnSelect_Or_pressed">#fff</color>
+</resources>
